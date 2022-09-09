@@ -1,0 +1,19 @@
+{
+  "name": "manga-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chromedriver": "^105.0.0",
+    "download": "^8.0.0",
+    "firebase-admin": "^11.0.1",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
